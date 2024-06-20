@@ -1,3 +1,4 @@
+<<<<<<< bug-fix-typo
 # SimpleInterestCalculator3
 Input:
    p, principal amount
@@ -46,3 +47,13 @@ Output
    ## Get Started
 
    Thank you for your interest in our Simple Interest Calculator project! To get started, clone the repository and start calculating simple interest today! If you have any questions or feedback, please don't hesitate to reach out to us.
+=======
+# Micro-Finance Startup: Simple Interest Calculator
+
+Welcome to the official repository of the Micro-Finance Startup's Simple Interest Calculator! This project is part of our mission to empower and provide opportunities to low-income individuals by transitioning our code management from Subversion (SVN) to Git. This repository hosts a sample code for calculating simple interest, and serves as the first step in our journey towards embracing Git for our code management needs.
+
+## Project Overview
+
+The Simple Interest Calculator is a bash script designed to calculate simple interest. It allows users to input the principal amount, interest rate, and time period to calculate the total amount accrued. This tool is designed to be simple, efficient, and accessible to all users.
+
+## How to Use
